@@ -11,5 +11,5 @@
     ],
     "minimum-stability": "stable",
     "require": {},
-    "autoload":{"third\\qq\\"："src"}
+    "autoload":{"third\\qq\\":"src"}
 }
