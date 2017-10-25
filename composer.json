@@ -2,7 +2,7 @@
     "name": "third/qq",
     "type": "library",
     "description": "这是第三方接口开发",
-    "keywords": ["sdk","weibo"],
+    "keywords": ["sdk","qq"],
     "homepage": "http://github.com/third-apply/qq",
     "license": "MIT",
     "authors": [
