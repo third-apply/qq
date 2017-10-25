@@ -1,0 +1,15 @@
+{
+    "name": "third-apply/qq",
+    "description": "第三方接口开发",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "third-apply",
+            "email": "2130137774@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload":{"third\\qq\\","src"}
+}
