@@ -1,17 +1,22 @@
 {
-    "name": "third-apply/qq",
-    "description": "第三方接口开发",
+    "name": "third/qq",
     "type": "library",
+    "description": "这是第三方接口开发",
+    "keywords": ["sdk","weibo"],
+    "homepage": "http://github.com/third-apply/qq",
     "license": "MIT",
     "authors": [
         {
-            "name": "third-apply",
-            "email": "2130137774@qq.com"
+            "name": "wanglei",
+            "email": "2130137774@qq.com",
+            "homepage": "http://htw.applyapp.com",
+            "role": "Developer"
         }
     ],
-    "minimum-stability": "stable",
-    "require": {},
-    "autoload":{
+    "require": {
+        "php": ">=5.0.0"
+    },
+    "autoload": {
         "psr-4":{"third\\qq\\":"src"}
     }
 }
